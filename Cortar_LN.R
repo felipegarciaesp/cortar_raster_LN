@@ -6,6 +6,7 @@
 ## 2. Que el bucle for vaya cortando para cada elevacion definida y para cada raster
 ## 3. Que el vector de linea de nieves ingresado se ordene de menor a mayor (o viceversa).
 ## 4. Que los resultados se alojan en una carpeta aparte.
+## 5. Ocupar ifel para cortar el raster.
 
 ## 1. Carga de librerias
 library(terra)
